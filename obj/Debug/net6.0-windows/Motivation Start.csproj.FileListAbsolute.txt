@@ -1,0 +1,17 @@
+C:\Users\kkkkk\source\repos\Motivation Start\Motivation Start\bin\Debug\net6.0-windows\Motivation Start.exe
+C:\Users\kkkkk\source\repos\Motivation Start\Motivation Start\bin\Debug\net6.0-windows\Motivation Start.deps.json
+C:\Users\kkkkk\source\repos\Motivation Start\Motivation Start\bin\Debug\net6.0-windows\Motivation Start.runtimeconfig.json
+C:\Users\kkkkk\source\repos\Motivation Start\Motivation Start\bin\Debug\net6.0-windows\Motivation Start.dll
+C:\Users\kkkkk\source\repos\Motivation Start\Motivation Start\bin\Debug\net6.0-windows\Motivation Start.pdb
+C:\Users\kkkkk\source\repos\Motivation Start\Motivation Start\obj\Debug\net6.0-windows\Motivation Start.csproj.AssemblyReference.cache
+C:\Users\kkkkk\source\repos\Motivation Start\Motivation Start\obj\Debug\net6.0-windows\Motivation_Start.motivationForm.resources
+C:\Users\kkkkk\source\repos\Motivation Start\Motivation Start\obj\Debug\net6.0-windows\Motivation Start.csproj.GenerateResource.cache
+C:\Users\kkkkk\source\repos\Motivation Start\Motivation Start\obj\Debug\net6.0-windows\Motivation Start.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kkkkk\source\repos\Motivation Start\Motivation Start\obj\Debug\net6.0-windows\Motivation Start.AssemblyInfoInputs.cache
+C:\Users\kkkkk\source\repos\Motivation Start\Motivation Start\obj\Debug\net6.0-windows\Motivation Start.AssemblyInfo.cs
+C:\Users\kkkkk\source\repos\Motivation Start\Motivation Start\obj\Debug\net6.0-windows\Motivation Start.csproj.CoreCompileInputs.cache
+C:\Users\kkkkk\source\repos\Motivation Start\Motivation Start\obj\Debug\net6.0-windows\Motivation Start.dll
+C:\Users\kkkkk\source\repos\Motivation Start\Motivation Start\obj\Debug\net6.0-windows\refint\Motivation Start.dll
+C:\Users\kkkkk\source\repos\Motivation Start\Motivation Start\obj\Debug\net6.0-windows\Motivation Start.pdb
+C:\Users\kkkkk\source\repos\Motivation Start\Motivation Start\obj\Debug\net6.0-windows\Motivation Start.genruntimeconfig.cache
+C:\Users\kkkkk\source\repos\Motivation Start\Motivation Start\obj\Debug\net6.0-windows\ref\Motivation Start.dll
